@@ -1,5 +1,5 @@
-const isDogBetter = "true";
-const isCatBetter = "false";
+const isDogBetter = true;
+const isCatBetter = false;
 console.log(isDogBetter && isCatBetter);
 console.log(isDogBetter || isCatBetter);
 console.log(isDogBetter && isCatBetter);
